@@ -36,7 +36,10 @@
 
 - [About the Project](#about-the-project)
   - [Tested UI libraries ](#tested-ui-libraries)
+- [Run examples](#run-examples)
+- [Screenshots](#screenshots)
 - [Render time](#render-time)
+- [Components availability](#components-availability)
 - [Contributing](#contributing)
   <!-- ABOUT THE PROJECT -->
 
@@ -59,6 +62,22 @@ Below is a list of the tested ui libraries in this project :
 - [NativeBase](https://nativebase.io/) : Cross-platform UI components for React Native & Vue Nativ
 - [Material Kit](https://demos.creative-tim.com/material-kit-react-native/docs/?_ga=2.146360692.1129554279.1597731518-51190660.1597731518#/) : Free react native app template for building e-commerce mobile applications.
 
+## Run examples
+
+The example apps are creates as packages under this project, and we are using [Lerna](https://github.com/lerna/lerna) to manage these packages.
+So if you want to test one of these apps, you can use this command :
+```
+npx lerna --socpe=<PackageName> yarn start 
+```
+expamle :
+```
+// To run the react-native-elements example app 
+npx lerna --scope=Elements yarn start
+```
+## Screenshots
+- screen 1
+- screen 2
+
 ## Render time
 
 A list of the most used components and their render time in the different UI libraries
@@ -71,6 +90,28 @@ A list of the most used components and their render time in the different UI lib
 | List | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 |
 | Swipeable List | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 |
 | Layout | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 |
+
+## Components availability
+
+Before choosing your ui library you may want to know what libraries contains the most of what you need for your new project.
+The table below is an availability of the most used components in the libraries we tested.
+
+| Components | Elements | Paper | Kitten | Ant | Shoutem | Teaset | NativeBase | Material |
+| -------------- | :-----------: | -----: | ------------: | -----: | ------------: | -----: | ------------: | -------: |
+| Button | yes | yes| yes | yes | yes | yes | yes | yes |
+| Check Box | yes | yes | yes | yes | yes | yes | yes | yes |
+| Picker | yes | no | yes |no| yes | no | no | no |
+| Avatar |  yes | no | yes |no| yes | no | no | no |
+| Layout |  yes | no | yes |no| yes | no | no | no |
+| Card |  yes | no | yes |no| yes | no | no | no |
+| Chip |  yes | no | yes |no| yes | no | no | no |
+| Carousel |  yes | no | yes |no| yes | no | no | no |
+| List |  yes | no | yes |no| yes | no | no | no |
+| Swipeable List |  yes | no | yes |no| yes | no | no | no |
+| DataTabel |  yes | no | yes |no| yes | no | no | no |
+| Layout |  yes | no | yes |no| yes | no | no | no |
+| Layout |  yes | no | yes |no| yes | no | no | no |
+| Layout |  yes | no | yes |no| yes | no | no | no |
 
 <!-- CONTRIBUTING -->
 
