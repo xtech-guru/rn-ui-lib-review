@@ -90,37 +90,32 @@ npx lerna --scope=Elements yarn start
 ## Render time
 
 A list of the most used components and their render time in the different UI libraries
-| Components | Elements | Paper | Kitten | Ant | Shoutem | Teaset | NativeBase | Material |
+| Components | Elements | Paper | Kitten | Ant | Shoutem | Teaset | NativeBase | MaterialKit |
 | -------------- | :-----------: | -----: | ------------: | -----: | ------------: | -----: | ------------: | -------: |
-| Button | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 |
-| Check Box | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 |
-| Picker | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 |
-| Card | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 |
-| List | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 |
-| Swipeable List | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 |
-| Layout | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 | right-aligned | \$1600 |
+| Button | 138.06 ms | 140.04 ms | 139.12 ms | 138 ms| 139.5 ms | 138.2 ms | 137.5 ms | 140.2 ms |
+| Check Box | 120 ms | 120.2 ms | 120.7 | 126.9| NA | 121 ms | 120.44 ms | NA |
+| Picker | NA| NA | NA | 145 ms | 142.3 ms | 144 ms | 148 ms | NA |
+| Card | 165 ms | 165.2 ms| 165.9 ms | 164.1 ms| 167.6 ms | NA | 161 ms | NA |
+| List | 110 ms | 112 ms | 111.22 ms | 112.8 ms |109.3 ms | 114.6 ms |108.6 ms | NA |
+| Layout | NA | NA  | 178.5 ms|  180 ms |  NA | NA | NA | NA |
 
 ## Components availability
 
 Before choosing your ui library you may want to know what libraries contains the most of what you need for your new project.
 The table below is an availability of the most used components in the libraries we tested.
 
-| Components | Elements | Paper | Kitten | Ant | Shoutem | Teaset | NativeBase | Material |
+| Components | Elements | Paper | Kitten | Ant | Shoutem | Teaset | NativeBase | MaterialKit |
 | -------------- | :-----------: | -----: | ------------: | -----: | ------------: | -----: | ------------: | -------: |
 | Button | yes | yes| yes | yes | yes | yes | yes | yes |
-| Check Box | yes | yes | yes | yes | yes | yes | yes | yes |
-| Picker | yes | no | yes |no| yes | no | no | no |
-| Avatar |  yes | no | yes |no| yes | no | no | no |
-| Layout |  yes | no | yes |no| yes | no | no | no |
-| Card |  yes | no | yes |no| yes | no | no | no |
-| Chip |  yes | no | yes |no| yes | no | no | no |
-| Carousel |  yes | no | yes |no| yes | no | no | no |
-| List |  yes | no | yes |no| yes | no | no | no |
-| Swipeable List |  yes | no | yes |no| yes | no | no | no |
-| DataTabel |  yes | no | yes |no| yes | no | no | no |
-| Layout |  yes | no | yes |no| yes | no | no | no |
-| Layout |  yes | no | yes |no| yes | no | no | no |
-| Layout |  yes | no | yes |no| yes | no | no | no |
+| Check Box | yes | yes | yes | yes | no | yes | yes | no |
+| Picker | no | no | no |yes | yes | yes | yes | no |
+| Avatar |  yes | yes | yes |no| no | no | no | no |
+| Layout |  no | no | yes |yes | no | no | no | no |
+| Card |  yes | yes | yes |yes| yes | no | yes | no |
+| Slider |  yes | no | no | yes | no | no | no | no |
+| List |  yes | yes | yes |yes| yes | yes | yes | no |
+| DataTabel |  no | yes | no |no| no | no | no | no |
+
 
 <!-- CONTRIBUTING -->
 
