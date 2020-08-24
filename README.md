@@ -18,7 +18,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-        <img src="https://image.flaticon.com/icons/svg/3281/3281284.svg" alt="Logo" width="80" height="80">
+        <img src="https://i.pinimg.com/originals/14/4a/91/144a91c7577e4e0df418a0de6252dd05.gif" alt="Logo" width="380" height="280">
   </a>
   <h3 align="center">rn-ui-libs</h3>
   <p align="center">
