@@ -92,11 +92,11 @@ A list of the most used components and their render time in the different UI lib
 | Components | Elements | Paper | Kitten | Ant | Shoutem | Teaset | NativeBase | MaterialKit |
 | -------------- | :-----------: | -----: | ------------: | -----: | ------------: | -----: | ------------: | -------: |
 | Button | 138.06 ms | 140.04 ms | 139.12 ms | 138 ms| 139.5 ms | 138.2 ms | 137.5 ms | 140.2 ms |
-| Check Box | 120 ms | 120.2 ms | 120.7 | 126.9| NA | 121 ms | 120.44 ms | NA |
-| Picker | NA| NA | NA | 145 ms | 142.3 ms | 144 ms | 148 ms | NA |
-| Card | 165 ms | 165.2 ms| 165.9 ms | 164.1 ms| 167.6 ms | NA | 161 ms | NA |
-| List | 110 ms | 112 ms | 111.22 ms | 112.8 ms |109.3 ms | 114.6 ms |108.6 ms | NA |
-| Layout | NA | NA  | 178.5 ms|  180 ms |  NA | NA | NA | NA |
+| Check Box | 120 ms | 120.2 ms | 120.7 | 126.9| <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  | 121 ms | 120.44 ms | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  |
+| Picker | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" /> | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  | 145 ms | 142.3 ms | 144 ms | 148 ms | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  |
+| Card | 165 ms | 165.2 ms| 165.9 ms | 164.1 ms| 167.6 ms | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  | 161 ms | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  |
+| List | 110 ms | 112 ms | 111.22 ms | 112.8 ms |109.3 ms | 114.6 ms |108.6 ms | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  |
+| Layout | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />   | 178.5 ms|  180 ms |  <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  | <img src="https://image.flaticon.com/icons/svg/1828/1828665.svg" height="25"  alt="Cross icon made by FlatIcon.com" />  |
 
 ## Components availability
 
