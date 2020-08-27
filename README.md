@@ -77,17 +77,17 @@ npx lerna --scope=Elements yarn start
 ## Screenshots
 - React Native Elements 
  <img src="https://miro.medium.com/max/1200/0*n8UTS0aLvo1pn4He.gif" alt="react native elements" height="450"/>
- <br><i> <a href="https://medium.com/@mobindustry/top-10-react-native-frameworks-libraries-for-your-cross-platform-mobile-app-69957736651e">Medium </a></i>
-- React Native Paper <img src="https://i0.wp.com/blog.logrocket.com/wp-content/uploads/2020/02/reactuikitten.png?resize=730%2C337&ssl=1" alt="react native paper" height="450" /> <br><i> <a href="https://blog.logrocket.com/react-native-component-libraries-in-2020/">LogRocket</a></i>
-- Ui kitten <img src="https://madewithnetwork.ams3.cdn.digitaloceanspaces.com/spatie-space-production/2713/react-native-ui-kitten-3.jpg" height="450" alt="react native UI kitten" /><br><i><a href="https://madewithreactjs.com/react-native-ui-kitten">MadeWithReactJS</a></i>
+ <br><i> <a href="https://medium.com/@mobindustry/top-10-react-native-frameworks-libraries-for-your-cross-platform-mobile-app-69957736651e">Medium </a></i><br>
+- React Native Paper <img src="https://i0.wp.com/blog.logrocket.com/wp-content/uploads/2020/02/reactuikitten.png?resize=730%2C337&ssl=1" alt="react native paper" height="450" /> <br><i> <a href="https://blog.logrocket.com/react-native-component-libraries-in-2020/">LogRocket</a></i><br>
+- Ui kitten <img src="https://madewithnetwork.ams3.cdn.digitaloceanspaces.com/spatie-space-production/2713/react-native-ui-kitten-3.jpg" height="450" alt="react native UI kitten" /><br><i><a href="https://madewithreactjs.com/react-native-ui-kitten">MadeWithReactJS</a></i><br>
 - Ant design mobile 
 <img src="https://user-images.githubusercontent.com/25769573/38863111-4a1e94ae-4269-11e8-8e20-97c014551dc6.png" height="450" alt="Ant design mobile" />
-<br><i><a href="https://github.com/ant-design/ant-design-mobile/issues/2466">Github</a></i>
+<br><i><a href="https://github.com/ant-design/ant-design-mobile/issues/2466">Github</a></i><br>
 - NativeBase <img src="https://miro.medium.com/max/368/1*3OepjeZE7Pv5Uep_Rpz3Ow.png" alt="NativeBase" height="450" />
-<br><i><a href="https://blog.nativebase.io/react-native-flat-app-theme-be18c869c47e">blog nativebase</a></i> 
--  MaterialKit <img src="https://demos.creative-tim.com/material-kit-pro-react-native/assets/img/iphonex.png" alt="MaterialKit" height="450"/> <br><i><a href="https://demos.creative-tim.com/material-kit-pro-react-native/">Creative-Tim</a></i>
-- Teaset <img src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2020/02/teaset.png?resize=645%2C548&ssl=1" alt="Teaset" height="450"/><br><i><a href="https://blog.logrocket.com/react-native-component-libraries-in-2020/">Logrocket blog</a></i>
-- Shoutem <img src="https://images.shoutem.com/wp-content/uploads/2016/11/27140754/feature-image-4-1170x655.jpg" alt="Teaset" height="450" /><br><i><a href="https://shoutem.com/features/ui-toolkit-and-design-templates/">Shoutem.com</a></i>
+<br><i><a href="https://blog.nativebase.io/react-native-flat-app-theme-be18c869c47e">blog nativebase</a></i> <br>
+-  MaterialKit <img src="https://demos.creative-tim.com/material-kit-pro-react-native/assets/img/iphonex.png" alt="MaterialKit" height="450"/> <br><i><a href="https://demos.creative-tim.com/material-kit-pro-react-native/">Creative-Tim</a></i><br>
+- Teaset <img src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2020/02/teaset.png?resize=645%2C548&ssl=1" alt="Teaset" height="450"/><br><i><a href="https://blog.logrocket.com/react-native-component-libraries-in-2020/">Logrocket blog</a></i><br>
+- Shoutem <img src="https://images.shoutem.com/wp-content/uploads/2016/11/27140754/feature-image-4-1170x655.jpg" alt="Teaset" height="450" /><br><i><a href="https://shoutem.com/features/ui-toolkit-and-design-templates/">Shoutem.com</a></i><br>
 
 ## Render time
 
